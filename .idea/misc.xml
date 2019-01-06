@@ -11,6 +11,9 @@
       </list>
     </option>
   </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-4.0.xsd" location="$USER_HOME$/Desktop/Java12班/1-04/spring-framework-4.0.0.RELEASE/schema/tx/spring-tx-4.0.xsd" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
